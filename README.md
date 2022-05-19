@@ -39,11 +39,13 @@ The analysis of the election shows that:
       - Denver, which received "82.8%" of the votes and "306,055" number of votes.
   
   . The candidates were:
+  
       - Charles Casper Stockham
       - Diana DeGette
       - Raymon Anthony Doane
     
   . The candidate results were:
+  
       - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
       - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
       - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
