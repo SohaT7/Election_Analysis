@@ -1,9 +1,7 @@
 # Election Analysis
 ## Overview of the Analysis
 ### Purpose:
-This analysis aims to conduct an election audit of a local congressional election.
-
-[PyPoll_Challenge.py](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) contains this analysis.
+[This analysis](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to conduct an election audit of a local congressional election.
 
 ### About the Dataset:
 The dataset comprises of a CSV file:
