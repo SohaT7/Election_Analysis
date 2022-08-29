@@ -1,7 +1,7 @@
 # Election Analysis
 ## Overview of the Analysis
 ### Purpose:
-[This analysis](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to conduct an election audit of a local congressional election.
+[This analysis](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to conduct an election audit of a local congressional election, and report on the county and candidate with the highest number of votes. 
 
 ### About the Dataset:
 The dataset comprises of a CSV file:
@@ -14,17 +14,15 @@ Python
 Visual Studio Code
 
 ### Description:
-The [initial election audit](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll.py) comprised of the following steps:
-        1. Calculate the total number of votes cast
-        2. Get a complete list of candidates who received votes
-        3. Calculate the total number of votes each candidate received
-        4. Calculate the percentage of votes each candidate won
-        5. Determine the winner of the election based on popular vote
-
 [This election audit](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to compute:
-        1. The voter turnout for each county
-        2. The percentage of votes from each county out of the total count
-        3. The county with the highest turnout
+        1. The total number of votes cast
+        2. The voter turnout for each county
+        3. The percentage of votes from each county out of the total count
+        4. The county with the highest turnout
+        5. A complete list of candidates who received votes
+        6. The total number of votes each candidate received
+        7. The percentage of votes each candidate won
+        8. The winner of the election based on popular vote
 
 ## Results
 ![Election Audit Results](https://github.com/SohaT7/Election_Analysis/blob/main/Images/Image_election_audit_results%204.17.53%20PM.png)
