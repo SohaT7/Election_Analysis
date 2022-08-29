@@ -15,16 +15,16 @@ Visual Studio Code
 
 ### Description:
 The [initial election audit](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll.py) comprised of the following steps:
-    1. Calculate the total number of votes cast
-    2. Get a complete list of candidates who received votes
-    3. Calculate the total number of votes each candidate received
-    4. Calculate the percentage of votes each candidate won
-    5. Determine the winner of the election based on popular vote
+        1. Calculate the total number of votes cast
+        2. Get a complete list of candidates who received votes
+        3. Calculate the total number of votes each candidate received
+        4. Calculate the percentage of votes each candidate won
+        5. Determine the winner of the election based on popular vote
 
 [This election audit](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to compute:
-    1. The voter turnout for each county
-    2. The percentage of votes from each county out of the total count
-    3. The county with the highest turnout
+        1. The voter turnout for each county
+        2. The percentage of votes from each county out of the total count
+        3. The county with the highest turnout
 
 ## Results
 ![Election Audit Results](https://github.com/SohaT7/Election_Analysis/blob/main/Images/Image_election_audit_results%204.17.53%20PM.png)
