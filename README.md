@@ -6,8 +6,6 @@
     - [Tools Used](#tools-used)
     - [Description](#description)
 - [Results](#results)
-    - [Comparing the Stock Performance between 2017 and 2018](#Comparing-the-Stock-Performance-between-2017-and-2018)
-    - [Execution times of the Original script and the Refactored script](#Execution-times-of-the-Original-script-and-the-Refactored-script)
 - [Summary](#summary)
 - [Contact Information](#contact-information)
 
