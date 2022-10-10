@@ -1,17 +1,29 @@
 # Election Analysis
+## Table of Contents
+- [Overview of the Analysis](#overview-of-the-analysis)
+    - [Purpose](#purpose)
+    - [About the Dataset](#about-the-dataset)
+    - [Tools Used](#tools-used)
+    - [Description](#description)
+- [Results](#results)
+    - [Comparing the Stock Performance between 2017 and 2018](#Comparing-the-Stock-Performance-between-2017-and-2018)
+    - [Execution times of the Original script and the Refactored script](#Execution-times-of-the-Original-script-and-the-Refactored-script)
+- [Summary](#summary)
+- [Contact Information](#contact-information)
+
+
 ## Overview of the Analysis
 ### Purpose:
 [This analysis](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to conduct an election audit of a local congressional election, and report on the county and candidate with the highest number of votes. 
 
 ### About the Dataset:
-The dataset comprises of a CSV file:
+The dataset is contained in the following CSV file, and has 369711 records containing the fields: Ballot ID, County, and Candidate.
 
 [Election Results](https://github.com/SohaT7/Election_Analysis/blob/main/Resources/election_results.csv) 
 
 ### Tools Used:
-Python
-
-Visual Studio Code
+ - Python
+ - Visual Studio Code
 
 ### Description:
 [This election audit](https://github.com/SohaT7/Election_Analysis/blob/main/PyPoll_Challenge.py) aims to compute:
