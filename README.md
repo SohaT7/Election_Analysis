@@ -42,6 +42,7 @@ The analysis of the election results shows that:
  - There were 369,711 votes cast in the congressional election.
 
  - The counties were:
+ 
       - Jefferson
       - Denver
       - Arapahoe
